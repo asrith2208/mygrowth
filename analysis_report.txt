@@ -1,0 +1,4 @@
+Lines: 2
+Words: 10
+Characters: 59
+Most common word: 'python' (3 times)
